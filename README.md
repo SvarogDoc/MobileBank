@@ -1,4 +1,5 @@
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
+[![Build status](https://ci.appveyor.com/api/projects/status/3e23knfg56m3q8of?svg=true)](https://ci.appveyor.com/project/SvarogDoc/mobilebank)
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
